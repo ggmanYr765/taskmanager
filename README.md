@@ -39,7 +39,9 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 # From project root
 mvnw.cmd spring-boot:run
 
-Then go to(SWAGGER UI): http://localhost:8080 
+Then go to(SWAGGER UI): http://localhost:8080
+![Screenshot 2025-06-19 021303](https://github.com/user-attachments/assets/5ccf0b63-1512-4286-b36f-c0823ea2dc82)
+
 
 API ENDPOINTS:
 
@@ -62,6 +64,8 @@ Use the token in Authorization > Bearer Token for all /tasks endpoints
 License:
 
 This project is licensed under the MIT License.
+
+
 
 
 
