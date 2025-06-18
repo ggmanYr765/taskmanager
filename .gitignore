@@ -1,0 +1,12 @@
+/target
+/.vscode
+*.log
+*.class
+*.iml
+*.jar
+*.war
+*.db
+*.DS_Store
+*.env
+
+ 
