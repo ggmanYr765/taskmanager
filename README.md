@@ -40,7 +40,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 mvnw.cmd spring-boot:run
 
 Then go to(SWAGGER UI): http://localhost:8080
-![Screenshot 2025-06-19 021303](https://github.com/user-attachments/assets/5ccf0b63-1512-4286-b36f-c0823ea2dc82)
 
 
 API ENDPOINTS:
